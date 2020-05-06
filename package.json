@@ -1,0 +1,27 @@
+{
+  "name": "project_studion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "npx live-server src/ --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bricio123/Project_studion.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Fabricio and Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bricio123/Project_studion/issues"
+  },
+  "homepage": "https://github.com/bricio123/Project_studion#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
